@@ -49,7 +49,7 @@
 		2F09EC8E2B1EB369003EA460 /* FirebaseAppCheck in Frameworks */ = {isa = PBXBuildFile; productRef = 2F09EC8D2B1EB369003EA460 /* FirebaseAppCheck */; };
 		2F09EC932B1EB48E003EA460 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 2F09EC922B1EB48E003EA460 /* FirebaseFirestore */; };
 		2F09EC952B1EB4C1003EA460 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 2F09EC942B1EB4C1003EA460 /* FirebaseFirestoreSwift */; };
-		2F09EC992B1EB810003EA460 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F09EC982B1EB810003EA460 /* GoogleService-Info.plist */; };
+		2F09EC9B2B1FA2F5003EA460 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F09EC9A2B1FA2F5003EA460 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,7 +63,7 @@
 		2F09EC572B1EAFE3003EA460 /* BookDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookDetailsView.swift; sourceTree = "<group>"; };
 		2F09EC592B1EAFF8003EA460 /* BookEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookEditView.swift; sourceTree = "<group>"; };
 		2F09EC5B2B1EB00D003EA460 /* BookViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookViewModel.swift; sourceTree = "<group>"; };
-		2F09EC982B1EB810003EA460 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		2F09EC9A2B1FA2F5003EA460 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,7 +132,7 @@
 			children = (
 				2F09EC352B1EAD6B003EA460 /* CRUD_TESTApp.swift */,
 				2F09EC372B1EAD6B003EA460 /* ContentView.swift */,
-				2F09EC982B1EB810003EA460 /* GoogleService-Info.plist */,
+				2F09EC9A2B1FA2F5003EA460 /* GoogleService-Info.plist */,
 				2F09EC392B1EAD6D003EA460 /* Assets.xcassets */,
 				2F09EC3B2B1EAD6D003EA460 /* Preview Content */,
 				2F09EC532B1EAF9C003EA460 /* Book.swift */,
@@ -258,7 +258,7 @@
 			files = (
 				2F09EC3D2B1EAD6D003EA460 /* Preview Assets.xcassets in Resources */,
 				2F09EC3A2B1EAD6D003EA460 /* Assets.xcassets in Resources */,
-				2F09EC992B1EB810003EA460 /* GoogleService-Info.plist in Resources */,
+				2F09EC9B2B1FA2F5003EA460 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
